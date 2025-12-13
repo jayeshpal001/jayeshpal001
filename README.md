@@ -35,11 +35,21 @@ Clean+Code+%7C+Best+Practices
 
 ## 📌 Featured Projects
 
+---
+
+### 🛒 Shopping24 – E-commerce App
+- Full-stack MERN e-commerce application
+- Authentication, cart management & Cloudinary image upload
+- Deployed with production-ready setup  
+🔗 Repo: https://github.com/jayeshpal001/shoping24.git
+
+---
+
 ### 🏥 Hospital Appointment System
 - Full-stack MERN application with **JWT authentication**
 - Role-based access (**Patient / Doctor**)
 - Appointment booking, cancellation & dashboards  
-🔗 Repo: https://github.com/jayeshpal001/Hospital-Appointment-System
+🔗 Repo: https://github.com/jayeshpal001/Hospital-Appointment-System.git
 
 ---
 
@@ -47,17 +57,9 @@ Clean+Code+%7C+Best+Practices
 - Junior–Senior interaction platform
 - Global chat & structured career roadmap
 - Built to help students with **career guidance**  
-🔗 Repo: https://github.com/jayeshpal001/Guidance
+🔗 Repo: https://github.com/jayeshpal001/Major-Project-V1.git
 
----
 
-### 🛒 Shopfinity – E-commerce App
-- Full-stack MERN e-commerce application
-- Authentication, cart management & Cloudinary image upload
-- Deployed with production-ready setup  
-🔗 Repo: https://github.com/jayeshpal001/Shopfinity
-
----
 
 > 💡 **Actively seeking MERN Stack Internship / Fresher opportunities**
 where I can contribute to real-world projects and grow as a full-stack developer.
@@ -76,8 +78,8 @@ where I can contribute to real-world projects and grow as a full-stack developer
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/jayesh-pal
-- 📧 Email: jayeshpal001@gmail.com
+- 💼 LinkedIn: linkedin.com/in/jayash-pal-a289ba294
+- 📧 Email: jayashpal5@gmail.com
 
 ---
 
