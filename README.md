@@ -59,19 +59,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshpal001&theme=tokyonight" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayeshpal001&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-![snake gif](https://github.com/jayeshpal001/jayeshpal001/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/jayesh-pal
