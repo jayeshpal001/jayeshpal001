@@ -1,19 +1,28 @@
 <h1 align="center">Hi 👋, I'm Jayesh Pal</h1>
-<h3 align="center">Full Stack MERN Developer | React • Node • MongoDB</h3>
+<h3 align="center">
+Full Stack MERN Developer | React Developer Intern @ Codes For Tomorrow
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications;Clean+Code+%7C+Best+Practices&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=
+React+Developer+Intern+at+Codes+For+Tomorrow;
+Full+Stack+MERN+Developer;
+React+%7C+Node+%7C+MongoDB;
+Building+Real+World+Web+Applications;
+Clean+Code+%7C+Best+Practices
+&center=true&width=650&height=45">
 </p>
 
 ---
 
 ## 🚀 About Me
+- 🧑‍💻 Currently working as a **React Developer Intern** at **Codes For Tomorrow**
 - 🎓 IT Graduate from **Sushila Devi Bansal College of Technology**
-- 🏫 Trained in **MERN Stack (Dr. Reddy Foundation – Grow Tech)**
-- 💻 Strong focus on **backend logic, APIs & system design**
-- 🏗 Built **real-world production-style projects**
-- ♟ Love problem-solving (**Chess & Sudoku**)
-- 🌱 Currently improving **Advanced Backend & Architecture**
+- 🏫 Completed **MERN Stack Training Program** at **Dr. Reddy Foundation (Grow Tech)**
+- 💻 Strong focus on **backend logic, REST APIs & system design**
+- 🏗 Built **real-world, production-style MERN projects**
+- ♟ Passionate about problem-solving (**Chess & Sudoku**)
+- 🌱 Currently improving **Advanced Backend & Scalable Architectures**
 
 ---
 
@@ -27,7 +36,7 @@
 ## 📌 Featured Projects
 
 ### 🏥 Hospital Appointment System
-- MERN-based system with **JWT authentication**
+- Full-stack MERN application with **JWT authentication**
 - Role-based access (**Patient / Doctor**)
 - Appointment booking, cancellation & dashboards  
 🔗 Repo: https://github.com/jayeshpal001/Hospital-Appointment-System
@@ -35,22 +44,27 @@
 ---
 
 ### 🎓 Guidance – Mentorship Platform
-- Junior–Senior interaction system
-- Global chat & career roadmap
-- Designed for **student career growth**  
+- Junior–Senior interaction platform
+- Global chat & structured career roadmap
+- Built to help students with **career guidance**  
 🔗 Repo: https://github.com/jayeshpal001/Guidance
 
 ---
 
 ### 🛒 Shopfinity – E-commerce App
-- Full-stack MERN application
-- Authentication, cart, Cloudinary image upload
+- Full-stack MERN e-commerce application
+- Authentication, cart management & Cloudinary image upload
 - Deployed with production-ready setup  
 🔗 Repo: https://github.com/jayeshpal001/Shopfinity
 
 ---
 
-## 📊 GitHub Stats (Live)
+> 💡 **Actively seeking MERN Stack Internship / Fresher opportunities**
+where I can contribute to real-world projects and grow as a full-stack developer.
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jayeshpal001&show_icons=true&theme=tokyonight" />
 </p>
@@ -59,6 +73,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshpal001&theme=tokyonight" />
 </p>
 
+---
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/jayesh-pal
@@ -66,4 +81,4 @@
 
 ---
 
-⭐ **Open to Internship & Fresher MERN Opportunities**
+⭐ **Open to Full-Time, Internship & Fresher MERN Opportunities**
