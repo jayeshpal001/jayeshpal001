@@ -50,6 +50,7 @@ Clean+Code+%7C+Best+Practices
 - Role-based access (**Patient / Doctor**)
 - Appointment booking, cancellation & dashboards  
 🔗 Repo: https://github.com/jayeshpal001/Hospital-Appointment-System.git
+Live: https://hospital-appointment-system-pi.vercel.app
 
 ---
 
